@@ -1,4 +1,5 @@
 ## Hi there 👋
+![hippo](https://media.tenor.com/DN4JBeneqdkAAAAM/congratulations-evangelion.gif)
 
 <!--
 **sabdullahi18/sabdullahi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
